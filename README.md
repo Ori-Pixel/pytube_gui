@@ -16,14 +16,14 @@ A standalone youtube downloader using pytube3.
 
 4. Hit download now.
 
-##Quirks and issues
-###Secondary window opens but there are no options.
+## Quirks and issues
+### Secondary window opens but there are no options.
 If you do not enter an appropriate video url, the application may open the new window, but no options will be available. Close the top level window and enter a functioning youtube url again.
 
-###Buttons stay pressed or application is not responding
+### Buttons stay pressed or application is not responding
 The Application may perform slowly based on internet connection. If the button is depressed, it is working in the backend. Especially on video download, it will remain pressed until the video is saved (which can take a very long time).
 
-##Future Update Plans
+## Future Update Plans
 1. Playlist downloading.
 2. Video URL queueing
 3. URL csv/txt file downloading
