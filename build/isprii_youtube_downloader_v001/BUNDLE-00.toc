@@ -1,0 +1,3 @@
+([('isprii_youtube_downloader_v001',
+   '/Users/ori/Documents/GitHub/pytube_gui/dist/isprii_youtube_downloader_v001',
+   'EXECUTABLE')],)

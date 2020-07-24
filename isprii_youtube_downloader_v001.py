@@ -5,7 +5,7 @@
 
 
 from pytube import YouTube
-import pkg_resources.py2_warn
+#import pkg_resources.py2_warn
 import tkinter as tk
 import os
 import PIL
